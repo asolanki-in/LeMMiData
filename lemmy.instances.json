@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lemmy",
+        "host": "lemmy.ml",
+        "description": "A community of privacy and FOSS enthusiasts, run by Lemmy’s developers",
+        "icon": "https://lemmy.ml/pictrs/image/fa6d9660-4f1f-4e90-ac73-b897216db6f3.png"
+    },
+    {
+        "name": "Lemmy World",
+        "host": "lemmy.world",
+        "description": "A generic Lemmy server for everyone to use.",
+        "icon": "https://lemmy.world/pictrs/image/3dba09a2-0934-4140-a187-351ef56fd2a6.png"
+    }
+]
