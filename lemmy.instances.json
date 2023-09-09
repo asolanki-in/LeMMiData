@@ -10,5 +10,11 @@
         "host": "lemmy.world",
         "description": "A generic Lemmy server for everyone to use.",
         "icon": "https://lemmy.world/pictrs/image/3dba09a2-0934-4140-a187-351ef56fd2a6.png"
+    },
+    {
+        "name": "Tucson Social",
+        "host": "tucson.social",
+        "description": "Tucson's own social network!.",
+        "icon": "https://tucson.social/pictrs/image/64d5d77c-df85-45ed-be7c-c411862a5261.png"
     }
 ]
