@@ -16,5 +16,12 @@
         "host": "tucson.social",
         "description": "Tucson's own social network!.",
         "icon": "https://tucson.social/pictrs/image/64d5d77c-df85-45ed-be7c-c411862a5261.png"
+    },
+    {
+        "name": "sh.itjust.works",
+        "host": "sh.itjust.works",
+        "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewal energy! Everyone is welcome eh.",
+        "icon": "https://sh.itjust.works/pictrs/image/fb4c11a2-f533-4b0b-8f74-466132d93c72.webp"
     }
+    
 ]
