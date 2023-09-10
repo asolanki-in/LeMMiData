@@ -40,5 +40,23 @@
         "host": "hexbear.net",
         "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
         "icon": "https://hexbear.net/pictrs/image/08eefd71-bc95-4d89-b51a-37168f6e6371.png"
+    },
+    {
+        "name": "Divisions by zero",
+        "host": "lemmy.dbzer0.com",
+        "description": "Be Weird, Download a Car, Generate Art, Disregard Copyrights",
+        "icon": "https://lemmy.dbzer0.com/pictrs/image/e7baeca5-b596-44c9-a33f-3d98284b05b6.png"
+    },
+    {
+        "name": "Reddthat",
+        "host": "reddthat.com",
+        "description": "Discover, Discuss, and Share - Reddthat: Where You've Truly 'ReddThat'!",
+        "icon": "https://reddthat.com/pictrs/image/070af378-0e72-4fb0-8c2f-cc6f7ca2f5b5.png"
+    },
+    {
+        "name": "programming.dev",
+        "host": "programming.dev",
+        "description": "A collection of programming communities",
+        "icon": "https://programming.dev/pictrs/image/1e947440-0f0d-4768-ba4b-1480551e7cc9.png"
     }
 ]
