@@ -34,5 +34,11 @@
         "host": "feddit.de",
         "description": "Deutschsprachige Lemmy Community",
         "icon": "https://feddit.de/pictrs/image/a8a5e6f8-37e5-4b29-b876-12dcf682250e.png"
+    },
+    {
+        "name": "Hexbear",
+        "host": "hexbear.net",
+        "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+        "icon": "https://hexbear.net/pictrs/image/08eefd71-bc95-4d89-b51a-37168f6e6371.png"
     }
 ]
