@@ -22,6 +22,17 @@
         "host": "sh.itjust.works",
         "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewal energy! Everyone is welcome eh.",
         "icon": "https://sh.itjust.works/pictrs/image/fb4c11a2-f533-4b0b-8f74-466132d93c72.webp"
+    },
+    {
+        "name": "Beehaw",
+        "host": "beehaw.org",
+        "description": "Aspiring to be(e) a safe, friendly and diverse place.",
+        "icon": "https://beehaw.org/img/logo_192.png"
+    },
+    {
+        "name": "Feddit",
+        "host": "feddit.de",
+        "description": "Deutschsprachige Lemmy Community",
+        "icon": "https://feddit.de/pictrs/image/a8a5e6f8-37e5-4b29-b876-12dcf682250e.png"
     }
-    
 ]
